@@ -1,0 +1,51 @@
+h1 {
+    text-align: center;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cardCampo {
+    height: 325px;
+    width: 90%;
+    border-radius: 12px;
+    border: 1px solid;
+    border-color: gray;
+    margin: 16px;
+}
+.cardCampo h2 {
+    padding: 16px;
+}
+.cardCampo img{
+    width: 100%;
+}
+.headCard {
+    display: flex;
+    align-items: center;
+    height: 56px;
+    font-size: 16px;
+}
+.headCard span {
+    font-size: 14px;
+    margin-left: 30px;
+}
+.txtDisp {
+    margin-top: 12px;
+}
+.cantidad {
+    margin-left: 16px;
+    font-size: 16px;
+    color: #4DA0C4;
+}
+.dispo {
+    margin-left: 20px;
+    font-size: 14px;
+    color: #9C999A;
+}
+.conectados {
+    margin-left: 16px;
+    color: #0CCA4A;
+}
+.noConectados {
+    margin-left: 16px;
+    color: #DB504A;
+}
