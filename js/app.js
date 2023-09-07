@@ -9,6 +9,6 @@ window.onload = function () {
         document.location.href = "./pages/campo1.html"
     }
     function abreCampo2 () {
-        console.log("campo 2")
+        document.location.href = "./pages/campo2.html"
     }
 }

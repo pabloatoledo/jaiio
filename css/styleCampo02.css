@@ -29,28 +29,28 @@ section img {
     z-index: 1;
 }
 .ptoVerde1 {
-    top: 277px;
-    left : 126px;
+    top: 357px;
+    left : 56px;
 }
 .ptoVerde2 {
-    top: 289px;
-    left : 204px;
+    top: 333px;
+    left : 102px;
 }
 .ptoVerde3 {
-    top: 333px;
-    left : 237px;
-}
-.ptoVerde4 {
     top: 345px;
     left : 180px;
 }
-.ptoVerde5 {
-    top: 345px;
-    left : 170px;
-}
-.ptoVerde6 {
+.ptoVerde4 {
     top: 376px;
     left : 114px;
+}
+.ptoVerde5 {
+    top: 462px;
+    left : 36px;
+}
+.ptoVerde6 {
+    top: 474px;
+    left : 102px;
 }
 .ptoVerde7 {
     top: 438px;
@@ -64,17 +64,17 @@ section img {
     top: 426px;
     left : 266px;
 }
-.ptoVerde10 {
-    top: 486px;
-    left : 172px;
-}
 .ptoVerde11 {
-    top: 510px;
-    left : 261px;
+    top: 498px;
+    left : 213px;
+}
+.ptoVerde10 {
+    top: 474px;
+    left : 249px;
 }
 .ptoVerde12 {
-    top: 534px;
-    left : 114px;
+    top: 486px;
+    left : 272px;
 }
 .ptoVerde13 {
     top: 599px;
@@ -88,4 +88,22 @@ section img {
     top: 498px;
     left : 213px;
 }
-
+.ptoVerde16 {
+    top: 590px;
+    left : 220px;
+}
+.ptoVerde17 {
+    top: 450px;
+    left : 97px;
+}
+.popup {
+    position:absolute;
+    height:36px;
+    width:80px;
+    z-index: 2;
+    top: 344px;
+    left : 86px;
+}
+.oculto {
+    display: none;
+}
