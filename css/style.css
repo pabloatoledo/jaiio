@@ -3,6 +3,9 @@ h1 {
     color: white;
     font-size: 22px;
 }
+.logo {
+    width: 30%;
+}
 header {
     display: flex;
     justify-content: space-between;
