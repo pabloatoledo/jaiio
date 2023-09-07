@@ -1,0 +1,87 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #2C6E49;
+    align-items: center;
+    height: 80px;
+}
+header img {
+    width: 48px;
+    height: 48px;
+}
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 22px;
+}
+.campo img {
+    width: 100%;
+    height: 100%;
+}
+section img {
+    position:absolute;
+    height:24px;
+    width:24px;
+    z-index: 1;
+}
+.ptoVerde1 {
+    top: 277px;
+    left : 126px;
+}
+.ptoVerde2 {
+    top: 289px;
+    left : 204px;
+}
+.ptoVerde3 {
+    top: 333px;
+    left : 237px;
+}
+.ptoVerde4 {
+    top: 345px;
+    left : 180px;
+}
+.ptoVerde5 {
+    top: 345px;
+    left : 170px;
+}
+.ptoVerde6 {
+    top: 376px;
+    left : 114px;
+}
+.ptoVerde7 {
+    top: 438px;
+    left : 148px;
+}
+.ptoVerde8 {
+    top: 426px;
+    left : 207px;
+}
+.ptoVerde9 {
+    top: 426px;
+    left : 266px;
+}
+.ptoVerde10 {
+    top: 486px;
+    left : 172px;
+}
+.ptoVerde11 {
+    top: 510px;
+    left : 261px;
+}
+.ptoVerde12 {
+    top: 534px;
+    left : 114px;
+}
+.ptoVerde13 {
+    top: 599px;
+    left : 170px;
+}
+.ptoVerde14 {
+    top: 575px;
+    left : 242px;
+}
+.ptoVerde15 {
+    top: 498px;
+    left : 213px;
+}
+
